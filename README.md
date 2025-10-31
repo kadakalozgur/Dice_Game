@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# 🎲 Dice Gam
+# 🎲 Dice Game
 
 ### - Developed by Özgür Kadakal
 
